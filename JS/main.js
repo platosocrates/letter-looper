@@ -1,9 +1,9 @@
 var letter;
 
-letter = prompt("Enter letter:");
-
 var i;
 
+letter = prompt("Enter letter:");
+
 for (i = 0; i < 10; i++) {
-     document.write(letter + '<br>')
+     document.write(letter + '<br>');
 }
